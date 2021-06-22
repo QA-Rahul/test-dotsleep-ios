@@ -1,7 +1,7 @@
 {
 	"url": "https://anshuman41:3syzFDBRCJa6qWqpNQeW@hub-cloud.browserstack.com/wd/hub",
 	"app": "bs://397c53d0c3990eca882cf8bc4140075da6251437",
-	"device": "iPhone 114k",
+	"device": "iPhone 1k",
 	"os_version": "14",
 	"project": "DOTslip_Automation",
 	"build": "Java iOS",
