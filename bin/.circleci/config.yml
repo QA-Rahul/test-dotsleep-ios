@@ -1,0 +1,12 @@
+version: 2.0
+
+jobs:
+  build:
+    docker:
+      - image: circleci/openjdk:stretch
+    steps: 
+      - checkout
+      - run: java -version
+      - run: ls
+      - run: mvn clean verify -Dtest.mode=cloud -Dtest.platform=iOSapp -Dtest.jsonCap=bsIOSApp.json -Dtest=DotSlipLoginTest -Dusername=2318388573 -Dpassword=Deepdish#trucking!20
+

@@ -1,0 +1,9 @@
+{
+  "url": "https://akclearn1:mTSX8zTjpUiM4BjjZ2L2@hub-cloud.browserstack.com/wd/hub",
+  "platformName":"Android",
+  "device":"OnePlus 7",
+  "realMobile":"true",
+  "os_version": "9.0",
+  "name": "akclearn1's First Test"
+
+}
