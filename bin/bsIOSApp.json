@@ -1,9 +1,0 @@
-{
-  "url": "https://vignesh300:YhCBfoRyZFuvfnQKyYhp@hub-cloud.browserstack.com/wd/hub",
-  "app": "bs://5f6675d9ca1d7a820897a340ca9f250064a389ac",
-  "device": "iPhone 12",
-  "os_version": "14",
-  "project": "Dotslip_Automation",
-  "build": "Java iOS",
-  "name": "DOTslip"
-}
